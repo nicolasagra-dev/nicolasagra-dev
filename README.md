@@ -1,18 +1,34 @@
-# Olá, eu sou Nicolas Ricardo Lopes Agra
+<h1 align="center">Nicolas Ricardo Lopes Agra</h1>
 
-Estudante de **Engenharia de Software no IFAM** e desenvolvedor em formação com foco em **Ciência de Dados**, **Inteligência Artificial** e **Visão Computacional**.
+<p align="center">
+  <strong>Engenharia de Software | Inteligência Artificial | Ciência de Dados | Visão Computacional</strong>
+</p>
 
-Tenho interesse em construir soluções que transformem dados em decisões úteis, especialmente em áreas como saúde, setor público e problemas reais da Amazônia. Atualmente venho aprofundando meus estudos em pipelines de Machine Learning, Deep Learning com PyTorch, análise de dados e boas práticas de arquitetura de software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolasagra-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-nicolasagra--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/nicolasagra-dev">
+    <img src="https://img.shields.io/badge/GitHub-nicolasagra--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:nicolaricardosagra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nicolaricardosagra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+Sou estudante de **Engenharia de Software no IFAM** e desenvolvedor em formação com foco em **Machine Learning**, **Deep Learning**, **Computer Vision** e **análise de dados públicos**.
+
+Meu portfólio combina projetos de IA aplicada à saúde, pipelines de dados e análise exploratória com Python. Tenho interesse em construir soluções que transformem dados em decisões úteis, especialmente em saúde, setor público e problemas reais da Amazônia.
 
 ## Sobre mim
 
 - Cursando Engenharia de Software no IFAM - Campus Manaus Zona Leste
-- Foco em Ciência de Dados, IA e Visão Computacional
-- Experiência com pipelines modulares de Deep Learning em Python e PyTorch
-- Interesse em aplicações de IA para saúde, análise de imagens e dados públicos
+- Foco em Machine Learning, Deep Learning, Computer Vision e Data Science
+- Experiência prática com Python, PyTorch, Pandas, Scikit-Learn e OpenCV
+- Interesse em IA aplicada à saúde, dados públicos e sistemas orientados por dados
 - Manaus, Amazonas, Brasil
 
-## Tecnologias e ferramentas
+## Stack principal
 
 **Linguagens**
 
@@ -22,7 +38,7 @@ Tenho interesse em construir soluções que transformem dados em decisões útei
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Dados e IA**
+**Dados, IA e Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -31,63 +47,52 @@ Tenho interesse em construir soluções que transformem dados em decisões útei
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-**Desenvolvimento**
+**Desenvolvimento e ferramentas**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projetos em destaque
 
-### Classificador de Imagens Médicas - HAM10000
+| Projeto | Descrição | Métricas / impacto | Stack |
+| --- | --- | --- | --- |
+| [EfficientNet Skin Lesion Classification](https://github.com/nicolasagra-dev/efficientnet-skin-lesion-classification) | Pipeline modular de Deep Learning para classificação multiclasse de lesões cutâneas no dataset HAM10000. | **82,24%** de acurácia em teste, **7 classes**, transfer learning, fine-tuning, TTA e Grad-CAM. | Python, PyTorch, TorchVision, EfficientNet-B2, OpenCV, Scikit-Learn |
+| [EDA DataSUS Amazonas](https://github.com/nicolasagra-dev/eda-datasus-amazonas) | Análise exploratória de dados públicos do DataSUS/TABNET sobre morbidade hospitalar no Amazonas. | **1.137.197** internações analisadas, crescimento de **21,2%** entre 2021 e 2025, Manaus com **52,8%** das internações. | Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter |
 
-Sistema modular para classificação de **7 tipos de lesões cutâneas** em um dataset com aproximadamente 10.000 imagens.
+## O que esses projetos demonstram
 
-- Transfer Learning em dois estágios: Head Training e Fine-Tuning
-- Arquitetura baseada em componentes, separando configuração, dados e treinamento
-- Uso de EfficientNet-B2 com PyTorch
-- Aplicação de Grad-CAM para interpretabilidade do modelo
-- Tratamento de desbalanceamento de classes com pesos na função de perda
-- Otimização com Test-Time Augmentation e inferência ajustada
-- Resultado em teste: **82,24% de acurácia**
-
-**Tecnologias:** Python, PyTorch, OpenCV, Scikit-Learn, Pandas, NumPy e Matplotlib
-
-### EDA DataSUS - Morbidade Hospitalar no Amazonas
-
-Análise exploratória de dados públicos do DataSUS/TABNET sobre morbidade hospitalar no Amazonas.
-
-- Coleta de dados do SIH/SUS via TABNET
-- Limpeza e transformação dos dados brutos
-- Análise por município, faixa etária e ano
-- Visualizações com Seaborn e Matplotlib
-- Exportação de dados tratados e gráficos para consulta no GitHub
-
-Repositório: [eda-datasus-amazonas](https://github.com/nicolasagra-dev/eda-datasus-amazonas)
+- Construção de pipelines de Machine Learning e Deep Learning com organização modular.
+- Aplicação de Computer Vision em contexto de imagens médicas.
+- Uso de Explainable AI com Grad-CAM para interpretabilidade de modelos.
+- Limpeza, transformação e análise de dados públicos com Python.
+- Comunicação de resultados com métricas, visualizações e documentação técnica.
 
 ## Atualmente estudando
 
 - Machine Learning e Deep Learning
-- Visão Computacional
+- Computer Vision e Explainable AI
 - Engenharia de dados para análises
-- Boas práticas de arquitetura de software
+- Arquitetura de software e organização de projetos
 - Testes de software e versionamento com Git/GitHub
 
 ## GitHub Stats
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasagra-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasagra-dev&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasagra-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasagra-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolasagra--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasagra-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-nicolasagra--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolasagra-dev)
-[![Email](https://img.shields.io/badge/Email-nicolaricardosagra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolaricardosagra@gmail.com)
-
----
+<p>
+  <a href="https://www.linkedin.com/in/nicolasagra-dev">LinkedIn</a> |
+  <a href="https://github.com/nicolasagra-dev">GitHub</a> |
+  <a href="mailto:nicolaricardosagra@gmail.com">Email</a>
+</p>
 
 Aberto a oportunidades de estágio e projetos envolvendo desenvolvimento de software, ciência de dados e inteligência artificial.
