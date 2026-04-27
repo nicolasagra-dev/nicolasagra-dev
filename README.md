@@ -84,8 +84,10 @@ Meu portfólio combina projetos de IA aplicada à saúde, pipelines de dados e a
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasagra-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasagra-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasagra-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages">
 </p>
+
+> Nota: o endpoint público do `github-readme-stats` usa cache e não mostra estatísticas privadas de forma confiável. Para habilitar commits privados corretamente, veja [docs/github-readme-stats-selfhost.md](docs/github-readme-stats-selfhost.md).
 
 ## Contato
 
