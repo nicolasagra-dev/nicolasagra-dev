@@ -78,6 +78,17 @@ Esses projetos mostram um pouco do que venho estudando e colocando em prática c
 - Arquitetura de software e organização de projetos
 - Testes de software e versionamento com Git/GitHub
 
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasagra-dev&theme=tokyonight" alt="GitHub stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolasagra-dev&theme=tokyonight" alt="Linguagens por repositório">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolasagra-dev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub">
+</p>
+
 ## Contato
 
 <p>
