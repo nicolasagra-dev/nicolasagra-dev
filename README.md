@@ -66,9 +66,9 @@ Meu portfólio combina projetos de Machine Learning, Computer Vision, automaçã
 | [Diabetes Predictor App](https://github.com/nicolasagra-dev/diabetes-predictor-app) | Aplicativo Streamlit com modelo de Machine Learning para estimativa educacional de risco de diabetes. | **81,6%** ROC AUC, comparação entre Random Forest e Logistic Regression, matriz de confusão e importância das features. | Python, Streamlit, Scikit-Learn, Pandas, Matplotlib |
 | [Sales Report Automation](https://github.com/nicolasagra-dev/analise-vendas-python) | Automação que transforma planilhas de vendas em relatório Excel, gráficos e dashboard HTML. | Gera indicadores comerciais, ranking de produtos/clientes, evolução mensal e relatório executivo. | Python, Pandas, OpenPyXL, Matplotlib, Excel |
 
-## Como eu trabalho
+## Um pouco sobre os projetos
 
-Gosto de construir projetos que saem do notebook e viram entregas mais completas: scripts organizados, dashboards, apps interativos, relatórios, métricas e documentação. Nos projetos abaixo, procuro mostrar o caminho inteiro entre entender o problema, tratar os dados, criar uma solução e explicar os resultados de forma clara.
+Esses projetos mostram um pouco do que venho estudando e colocando em prática com Python, dados e inteligência artificial. Tento sempre ir além do código rodando: organizar melhor o projeto, mostrar os resultados e deixar claro como outra pessoa poderia testar ou entender a solução.
 
 ## Atualmente estudando
 
