@@ -16,16 +16,16 @@
   </a>
 </p>
 
-Sou estudante de **Engenharia de Software no IFAM** e desenvolvedor em formação com foco em **Machine Learning**, **Deep Learning**, **Computer Vision** e **análise de dados públicos**.
+Sou estudante de **Engenharia de Software no IFAM** e desenvolvedor em formação com foco em **Python**, **Ciência de Dados**, **Machine Learning** e **soluções orientadas por dados**.
 
-Meu portfólio combina projetos de IA aplicada à saúde, pipelines de dados e análise exploratória com Python. Tenho interesse em construir soluções que transformem dados em decisões úteis, especialmente em saúde, setor público e problemas reais da Amazônia.
+Meu portfólio combina projetos de Machine Learning, Computer Vision, automação, dashboards e análise exploratória com Python. Tenho interesse em construir soluções que transformem dados em produtos, decisões e ferramentas úteis em diferentes contextos.
 
 ## Sobre mim
 
 - Cursando Engenharia de Software no IFAM - Campus Manaus Zona Leste
 - Foco em Machine Learning, Deep Learning, Computer Vision e Data Science
 - Experiência prática com Python, PyTorch, Pandas, Scikit-Learn e OpenCV
-- Interesse em IA aplicada à saúde, dados públicos e sistemas orientados por dados
+- Interesse em IA aplicada, dados públicos, automação e sistemas orientados por dados
 - Manaus, Amazonas, Brasil
 
 ## Stack principal
