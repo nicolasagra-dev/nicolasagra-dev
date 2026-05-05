@@ -11,8 +11,8 @@
   <a href="https://github.com/nicolasagra-dev">
     <img src="https://img.shields.io/badge/GitHub-nicolasagra--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:nicolaricardosagra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicolaricardosagra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:nicolasricardosagra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nicolasricardosagra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -63,6 +63,8 @@ Meu portfólio combina projetos de IA aplicada à saúde, pipelines de dados e a
 | --- | --- | --- | --- |
 | [EfficientNet Skin Lesion Classification](https://github.com/nicolasagra-dev/efficientnet-skin-lesion-classification) | Pipeline modular de Deep Learning para classificação multiclasse de lesões cutâneas no dataset HAM10000. | **82,24%** de acurácia em teste, **7 classes**, transfer learning, fine-tuning, TTA e Grad-CAM. | Python, PyTorch, TorchVision, EfficientNet-B2, OpenCV, Scikit-Learn |
 | [EDA DataSUS Amazonas](https://github.com/nicolasagra-dev/eda-datasus-amazonas) | Análise exploratória de dados públicos do DataSUS/TABNET sobre morbidade hospitalar no Amazonas. | **1.137.197** internações analisadas, crescimento de **21,2%** entre 2021 e 2025, Manaus com **52,8%** das internações. | Python, Pandas, NumPy, Seaborn, Matplotlib, Jupyter |
+| [Diabetes Predictor App](https://github.com/nicolasagra-dev/diabetes-predictor-app) | Aplicativo Streamlit com modelo de Machine Learning para estimativa educacional de risco de diabetes. | **81,6%** ROC AUC, comparação entre Random Forest e Logistic Regression, matriz de confusão e importância das features. | Python, Streamlit, Scikit-Learn, Pandas, Matplotlib |
+| [Sales Report Automation](https://github.com/nicolasagra-dev/analise-vendas-python) | Automação que transforma planilhas de vendas em relatório Excel, gráficos e dashboard HTML. | Gera indicadores comerciais, ranking de produtos/clientes, evolução mensal e relatório executivo. | Python, Pandas, OpenPyXL, Matplotlib, Excel |
 
 ## O que esses projetos demonstram
 
@@ -71,6 +73,7 @@ Meu portfólio combina projetos de IA aplicada à saúde, pipelines de dados e a
 - Uso de Explainable AI com Grad-CAM para interpretabilidade de modelos.
 - Limpeza, transformação e análise de dados públicos com Python.
 - Comunicação de resultados com métricas, visualizações e documentação técnica.
+- Desenvolvimento de apps e automações que conectam análise de dados a uma entrega utilizável por usuários.
 
 ## Atualmente estudando
 
@@ -92,7 +95,7 @@ Meu portfólio combina projetos de IA aplicada à saúde, pipelines de dados e a
 <p>
   <a href="https://www.linkedin.com/in/nicolasagra-dev">LinkedIn</a> |
   <a href="https://github.com/nicolasagra-dev">GitHub</a> |
-  <a href="mailto:nicolaricardosagra@gmail.com">Email</a>
+  <a href="mailto:nicolasricardosagra@gmail.com">Email</a>
 </p>
 
 Aberto a oportunidades de estágio e projetos envolvendo desenvolvimento de software, ciência de dados e inteligência artificial.
