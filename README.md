@@ -18,14 +18,12 @@
 
 Sou estudante de **Engenharia de Software no IFAM** e desenvolvedor em formação com foco em **Python**, **Ciência de Dados**, **Machine Learning** e **soluções orientadas por dados**.
 
-Meu portfólio combina projetos de Machine Learning, Computer Vision, automação, dashboards e análise exploratória com Python. Tenho interesse em construir soluções que transformem dados em produtos, decisões e ferramentas úteis em diferentes contextos.
-
 ## Sobre mim
 
 - Cursando Engenharia de Software no IFAM - Campus Manaus Zona Leste
-- Foco em Machine Learning, Deep Learning, Computer Vision e Data Science
+- Foco em Machine Learning, Deep Learning, Data Science
 - Experiência prática com Python, PyTorch, Pandas, Scikit-Learn e OpenCV
-- Interesse em IA aplicada, dados públicos, automação e sistemas orientados por dados
+- Interesse em IA aplicada, automação 
 - Manaus, Amazonas, Brasil
 
 ## Stack principal
@@ -37,7 +35,7 @@ Meu portfólio combina projetos de Machine Learning, Computer Vision, automaçã
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Dados, IA e Computer Vision**
+**Dados, IA**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -54,7 +52,7 @@ Meu portfólio combina projetos de Machine Learning, Computer Vision, automaçã
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 ## Projetos em destaque
 
